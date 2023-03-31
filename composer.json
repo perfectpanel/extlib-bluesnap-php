@@ -16,7 +16,9 @@
     },
     "autoload": {
         "psr-4": {
-            "perfectpanel\\": "src/"
+            "tdanielcox\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
