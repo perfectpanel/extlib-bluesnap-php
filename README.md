@@ -1,6 +1,8 @@
 ## Bluesnap PHP Library
 
-**NOTE** this library is not production ready as my company decided against using bluesnap shortly after starting this project. Please feel free to fork it and make it fit your needs, all endpoints are working as of June 2017, however the library is missing several features that bluesnap offers. Development and maintence on this project has been discontinued. 
+**NOTE FROM AUTHOR** this library is not production ready as my company decided against using bluesnap shortly after starting this project. Please feel free to fork it and make it fit your needs, all endpoints are working as of June 2017, however the library is missing several features that bluesnap offers. Development and maintence on this project has been discontinued. 
+
+**NOTE FROM PERFECTPANEL** just updated requirements of guzzlehttp/guzzle up to version ^7.5. Original package: `tdanielcox/bluesnap-php`.
 
 ---------------------------------
 
@@ -25,7 +27,7 @@ This library currently supports:
 Install this package with composer
 
 ```shell
-composer require tdanielcox/bluesnap-php
+composer require perfectpanel/bluesnap-php
 ```
 
 ### Usage
