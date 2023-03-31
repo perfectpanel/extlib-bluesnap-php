@@ -1,9 +1,9 @@
 {
-    "name": "tdanielcox/bluesnap-php",
+    "name": "perfectpanel/bluesnap-php",
     "description": "A PHP Library for the Bluesnap api",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/tdanielcox/bluesnap-php",
+    "homepage": "https://github.com/perfectpanel/bluesnap-php",
     "authors": [
         {
             "name": "Daniel Cox",
