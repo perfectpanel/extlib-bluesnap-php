@@ -27,7 +27,7 @@ This library currently supports:
 Install this package with composer
 
 ```shell
-composer require perfectpanel/bluesnap-php
+composer require perfectpanel/extlib-bluesnap-php
 ```
 
 ### Usage
